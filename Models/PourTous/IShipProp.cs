@@ -9,7 +9,9 @@ namespace Models.PourTous
     public interface IShipProp
     {
 
+        //nombre de cases du bateau
         int NbSquare { get; set; }
+       //nombre de cases touchées lors du combat
         int NbSquareTouch { get; set; }
     }
 }

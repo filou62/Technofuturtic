@@ -34,7 +34,7 @@ namespace BatailleNavale
             rCruiser.NbSquare = 3;
             Destroyer rDestroyer = rshipfactory.CreateDestroyer();
             rDestroyer.NbSquare = 2;
-
+            //
 
 
 
